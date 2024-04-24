@@ -1,0 +1,16 @@
+/*.box1{
+	display: inline-block;
+}*/
+#Country{
+	width: 44%;
+}
+.form{
+	border: 0 solid black;
+	width: 25%;
+	height: 790px;
+	background-color: lightgreen;
+	margin-left: 550px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+

@@ -1,0 +1,49 @@
+.box{
+	border: 0 solid darkgreen;
+	width: 50%;
+	height: 260px;
+	background-color: darkgreen;
+	margin-left: 300px;
+    margin-top: 40px;
+}
+button{
+	background-color: green;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.box1{
+	border: 2px solid green;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+	text-align: center;
+	background-color: darkgreen;
+	display: inline-block;
+	margin-top: 15px;
+	margin-left: 350px;
+    margin-bottom: 20px;
+}
+.box2{
+	border: 2px solid green;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+	text-align: center;
+	background-color: darkgreen;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.box3{
+	border: 2px solid green;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+	text-align: center;
+	background-color: darkgreen;
+	display: inline-block;
+	margin-top:10px;
+	margin-left: 50px;
+
+}
+
